@@ -1,0 +1,16 @@
+.about{
+  text-justify: justify;
+}
+
+.skills {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.skills img {
+  height: 2rem;
+  margin-right: 0.5rem;
+  display: inline;
+}

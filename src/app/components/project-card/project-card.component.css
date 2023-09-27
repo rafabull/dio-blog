@@ -1,0 +1,17 @@
+.outer{
+  background-color: rgba(30, 41, 59, 0.4);
+  border-radius: 1rem;
+  margin-top: 1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+
+.outer>div{
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.line{
+  display: inline;
+}

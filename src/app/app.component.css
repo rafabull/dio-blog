@@ -1,0 +1,11 @@
+div{
+  margin-top: 5rem;
+  display: flex;
+}
+
+app-main-card, .projects{
+  width:40%;
+  margin: 0 5%;
+  display: block;
+}
+
